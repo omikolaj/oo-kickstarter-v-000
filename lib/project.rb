@@ -4,9 +4,9 @@ class Project
 
   def initialize (name)
     self.backers = []
-    
+
   end
 
 
-  
+
 end
