@@ -6,7 +6,7 @@ class Backer
     self.backed_projectes = []
   end
 
-  def backed_projectes(project)
+  def back_projectes(project)
     self.backed_projectes << project
   end
 
