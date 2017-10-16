@@ -4,5 +4,6 @@ class Backer
   def initialize(name)
     self.name = name
     self.backed_projectes = []
+  end
 
-end 
+end
