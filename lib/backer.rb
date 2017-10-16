@@ -13,6 +13,6 @@ class Backer
     project.backers << project
   end
 
-  
+
 
 end
